@@ -12,6 +12,6 @@ Eu estou atualmente aprendendo Backend com o JavaScript, tenho interesse em me t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gessicafontes&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gessicafontes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=gessicafontes&icon=4&color=10)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
