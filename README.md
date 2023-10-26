@@ -1,3 +1,4 @@
 <h1 align="center">Hello Universe</h1>
 <h2 align="center">☄️ I'm Géssica.</h2>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvariwiki.com%2Findex.php%3Ftitle%3DFile%3ADocker.png&psig=AOvVaw1YsCn9qSKZqQ_iLU0D5rBD&ust=1698366683832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLje1oi7koIDFQAAAAAdAAAAABAI)https://www.google.com/url?sa=i&url=https%3A%2F%2Fvariwiki.com%2Findex.php%3Ftitle%3DFile%3ADocker.png&psig=AOvVaw1YsCn9qSKZqQ_iLU0D5rBD&ust=1698366683832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLje1oi7koIDFQAAAAAdAAAAABAI" alt="docker" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="![image](https://github.com/gessicafontes/gessicafontes/assets/69762470/261d2a76-af8d-462a-99f1-4ed4e4daa2cc)
+" alt="docker" width="40" height="40"/> </a> </p>
